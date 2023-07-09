@@ -1,0 +1,11 @@
+.reset-container{
+    height: 246.4px;
+    width: 320px;
+    padding: 40px;
+    margin: 74.5px auto;
+    background-color: #fff;
+    border-radius: 12px;
+}
+button:hover{
+    background-color: #280D31EB;
+}

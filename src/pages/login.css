@@ -1,0 +1,51 @@
+.login-container{
+    max-width:320px ;
+    max-height: 266px;
+    background-color: #fff;
+    padding: 40px;
+    margin: 74.56px auto;
+    border-radius: 12px;
+}
+h2{
+    text-align: center;
+    display: block;
+    font-size: 1.5em;
+    
+    font-weight: bold;
+}
+.input-div{
+    max-width: 320px;
+    max-height: 49.6px;
+}
+button{
+    height: 44px;
+    width: 320px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+input{
+    max-height: 16px;
+    max-width: 298.4px;
+    padding: 10px;
+    border: 0.8px solid black;
+    margin-top: 8px;
+    margin-bottom: 4px;
+}
+.reset{
+    
+    text-align: center;
+    max-height: 18.4px;
+    max-width: 320px;
+    margin-left: 59%;
+    font-family: Montserrat,sans-serif;
+   
+}
+p{
+    text-align: center;
+    height: 36.8px;
+    font-family: Montserrat,sans-serif;
+}
+
+button:hover{
+    background-color: #280D31EB;
+}
